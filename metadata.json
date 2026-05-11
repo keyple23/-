@@ -1,0 +1,6 @@
+{
+  "name": "Naver Rank Checker",
+  "description": "A high-performance SEO tool to bulk check URL rankings on Naver for specific keywords. Support for up to 800 keywords and URLs via Excel copy-paste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
